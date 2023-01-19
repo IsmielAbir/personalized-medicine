@@ -1,0 +1,25 @@
+{
+    "intents":[
+        {
+            "tag":"depression",
+            "patterns":[
+                "persistent feelings of sadness, hopelessness. difficulty sleeping or oversleeping. changes in weight. difficulty concentration or making decisions. feelings of worthlessness or guilt. thoughts of suicide or self harm. lack of energy. changes in weight",
+
+                "persistent feelings of sadness, hopelessness. difficulty sleeping or oversleeping. changes in weight. difficulty concentration or making decisions. feelings of worthlessness or guilt. thoughts of suicide or self harm. lack of energy. changes in weight .loss of interest interest in activities that were once enjoyed. thoughts of suicide or self harm",
+
+                "difficulty sleeping or oversleeping. changes in weight. difficulty concentration or making decisions. feelings of worthlessness or guilt. thoughts of suicide or self harm. lack of energy. changes in weight",
+
+                "lack of energy. difficulty concentration or making decisions. feelings of worthlessness or guilt. thoughts of suicide or self harm"
+
+            ],
+            "responses":[
+                "Take regular physical activity, that can help improve mood and reduce feelings of depression. Like you can take a part of morning walk. You can take a part of meditation or yoga that can help you focus on the present moment and reduce feelings of stress and anxiety. Getting enough sleep, you should sleep at least 6-9 hours. Set a goal. Doing things that you enjoy like hobbies, activities or things that you like to do. Try to do this 14 days then tell me your condition",
+
+                "Building a supportive network like surrounding yourself worth supportive family and friends can provide a sense of connectedness and help you cope with difficult emotions. You can take a part of meditation or yoga that can help you focus on the present moment and reduce feelings of stress and anxiety. Getting enough sleep, you should sleep at least 6-9 hours. Set a goal. Doing things that you enjoy like hobbies, activities or things that you like to do. Try to do this 14 days then tell me your condition"
+            ]   
+        },
+        {
+            "tag": ""
+        }
+    ]
+}
