@@ -19,7 +19,10 @@
             ]   
         },
         {
-            "tag": ""
+            "tag": "Insomnia",
+            "patterns":[
+                
+            ]
         }
     ]
 }
